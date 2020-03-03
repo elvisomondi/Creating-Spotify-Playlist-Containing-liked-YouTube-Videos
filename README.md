@@ -1,4 +1,4 @@
-# Exporting Your YouTube Video Playlist To Spotify
+# Create Spotify Playlist Containing Your Liked YouTube Videos
 A simple script that takes your liked videos on Youtube, and generates a Spotify playlist based on the song in your liked videos.
 
 ## Table of Contents
